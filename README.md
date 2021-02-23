@@ -1,25 +1,39 @@
 
 Hckear Redes sociales
 
-INSTALACION
+
+INTRUCCIONES
+
 pkg update && pkg upgrade -y
+
 pkg install -y python
+
 pkg install -y git
+
 git clone https://github.com/cesarhack/HackSocial
+
 ls
+
 cd Hacksocial
+
 ls
+
 pip install -r requirements.txt
 
 PARA EJECUTAR
+
+
 python HackSocial.py
 
 INSTRUCCIONES
+
 ¿Como funciona?
 Un bot programado  se hara pasar por ti y a base de eso obtendra datos, contraseña del perfil que ingresaste
 Asegurate de haber ingresado datos correctos
 
 REQUISITOS:
+
+
 -Tener de amigo o seguirle en redes sociales a la victima
 
 ¿Qué pasa si los datos qué ingresé son incorrectos?
