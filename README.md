@@ -2,28 +2,28 @@
 Hckear Redes sociales
 
 
-INTRUCCIONES
+INSTALATION
 
-pkg update && pkg upgrade -y
+🔰pkg update && pkg upgrade -y
 
-pkg install -y python
+🔰pkg install -y python
 
-pkg install -y git
+🔰pkg install -y git
 
-git clone https://github.com/cesarhack/HackSocial
+🔰git clone https://github.com/cesarhack/HackSocial
 
-ls
+🔰ls
 
-cd Hacksocial
+🔰cd Hacksocial
 
-ls
+🔰ls
 
-pip install -r requirements.txt
+🔰pip install -r requirements.txt
 
 PARA EJECUTAR
 
 
-python HackSocial.py
+🔰python HackSocial.py
 
 INSTRUCCIONES
 
