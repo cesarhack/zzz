@@ -1,6 +1,6 @@
 # 
 ¿Como funciona?
-Un bot se hará pasar por ti, y buscará la contraseña del perfil que ingresaste.
+Un bot programado  se hara pasar por ti y a base de eso obtendra datos, contraseña del perfil que ingresaste
 
 ¿Qué pasa si los datos qué ingresé son incorrectos?
 Este tipo de ataque es a la base de datos de Facebook, lo cual, se basa en la obtención de datos de manera ciega, en otras palabras, si pones datos incorrectos, no te saldrá error ni algún tipo de afirmación, lo cual te hará buscar la contraseña de manera infinita.
