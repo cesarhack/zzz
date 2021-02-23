@@ -1,5 +1,14 @@
-#
+#hola
 HACKEAR REDES SOCIALES SIN PHISHING Y FUERZA BRUTA:
+
+pkg update && pkg upgrade -y
+pkg install -y python
+pkg install -y git
+git clone 
+cd SocialHack 
+ls
+pip install -r requirements.txt
+python HackSocial.py
 
 ¿Como funciona?
 Un bot programado  se hara pasar por ti y a base de eso obtendra datos, contraseña del perfil que ingresaste
