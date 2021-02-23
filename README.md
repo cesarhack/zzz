@@ -1,4 +1,6 @@
-# 
+#
+HACKEAR REDES SOCIALES SIN PHISHING Y FUERZA BRUTA:
+
 ¿Como funciona?
 Un bot programado  se hara pasar por ti y a base de eso obtendra datos, contraseña del perfil que ingresaste
 
